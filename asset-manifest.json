@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/numbers-facts/static/css/main.ad745881.css",
+    "main.js": "/numbers-facts/static/js/main.912f8049.js",
+    "static/js/787.52f4ff7a.chunk.js": "/numbers-facts/static/js/787.52f4ff7a.chunk.js",
+    "index.html": "/numbers-facts/index.html",
+    "main.ad745881.css.map": "/numbers-facts/static/css/main.ad745881.css.map",
+    "main.912f8049.js.map": "/numbers-facts/static/js/main.912f8049.js.map",
+    "787.52f4ff7a.chunk.js.map": "/numbers-facts/static/js/787.52f4ff7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad745881.css",
+    "static/js/main.912f8049.js"
+  ]
+}
